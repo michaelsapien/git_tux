@@ -1,5 +1,5 @@
 """
-create a new  array of dictionary by extracting data from data,json
+create a new  array of dictionary by extracting data from data.json
 new dictionay thus created should be as shown below
 
 
